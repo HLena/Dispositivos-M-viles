@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Dashboard3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="movie1">A dos Metros de ti</string>
+    <string name="movie1_info">Fecha de estreno: 15 de marzo de 2019 (Estados Unidos)\n
+        Director: Justin Baldoni \n
+        Canción: Dont Give Up on Me \n
+        Título: A dos metros de ti (Hispanoamérica)\n
+        Guion: Tobias Iaconis, Mikki Daughtry
+    </string>
+
+    <string name="movie2">El Rey León </string>
+    <string name="movie2_info">
+        Fecha de estreno: 9 de julio de 2019 (Hollywood)\n
+        Director: Jon Favreau\n
+        Recaudación: USD $1 599 006 349​\n
+        Presupuesto: USD $260 000 000
+    </string>
+
+    <string name="movie3">El Buen Doctor</string>
+    <string name="movie3_info">
+        Primer episodio: 5 de agosto de 2013\n
+        Último episodio: 8 de octubre de 2013\
+        Cantidad de temporadas: 1\n
+        Red: Korean Broadcasting System\n
+        Cantidad de episodios: 20
+    </string>
+
+    <string name="movie4">La Casa De Papel</string>
+    <string name="movie4_info">
+        Primer episodio: 2 de mayo de 2017\n
+        Cantidad de temporadas: 3\n
+        Creador del programa: Álex Pina\n
+        País de origen: España\n
+        Premios: Premio Emmy Internacional a \n
+        la Mejor Serie Dramática
+    </string>
+
+</resources>

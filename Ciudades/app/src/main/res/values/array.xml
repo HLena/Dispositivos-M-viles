@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_paises">
+        <item>Perú</item>
+        <item>Colombia</item>
+        <item>Francia</item>
+    </string-array>
+
+    <string-array name="Peru">
+        <item>Lima</item>
+        <item>Arequipa</item>
+    </string-array>
+    <string-array name="Colombia">
+        <item>Medellín</item>
+        <item>Bogotá</item>
+    </string-array>
+    <string-array name="Francia">
+        <item>Paris</item>
+        <item>Strasburgo</item>
+    </string-array>
+
+</resources>

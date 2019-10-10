@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ciudades</string>
+    <string name="text">Ciudad</string>
+    <string name="text_pais">Seleccione Pais</string>
+    <string name="text_ciudad">Seleccione Ciudad</string>
+</resources>
+
